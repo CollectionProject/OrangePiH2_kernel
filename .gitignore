@@ -125,6 +125,7 @@ OrangePi-BuildLinux/linux-trusty/
 *.img2
 *.imgu
 *.log
+*.map
 update.sh
 download.sh
 vmlinux
